@@ -8,7 +8,7 @@
 <h1>
 	Hello world...!  
 </h1>
-<h2>Second Project for Deployment..</h2>
+<h2>Project for Deployment..</h2>
 
 <P>  The time on the server is ${serverTime}. </P>
 </body>
