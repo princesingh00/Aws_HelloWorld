@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello world from bridgelabz...!  
+	Hello world from bridgelabz and prince..!  
 </h1>
 <h2>Final Project for Deployment...</h2>
 
